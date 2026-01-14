@@ -41,7 +41,7 @@ Other: Git, Data Structures & Algorithms
 ---
 
 ## 🌱 Beyond Coding
-Outside of programming, I enjoy cooking, creating content, and experimenting with videography.
+Outside of programming, I enjoy cooking, creating content, fitness & training.
 
 ---
 

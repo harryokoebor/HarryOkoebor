@@ -13,7 +13,7 @@ I’m a Computer Science student at University College Dublin (Class of 2028) wi
 ---
 
 ## 🚀 Projects
-CLI Gantt Chart Generator | C
+## [CLI Gantt Chart Generator](https://github.com/harryokoebor/CLI-Gantt-Chart-Generator) | C
 A terminal-based Gantt chart application designed to visualise project timelines.
 
 Dynamic memory allocation to support flexible task handling
@@ -22,7 +22,7 @@ Sorting and display logic for clear, readable terminal output
 
 Enhanced problem-solving skills through low-level C development
 
-CLI Music Organiser | C
+## [CLI Music Organiser](https://github.com/harryokoebor/CLI-Music-Organiser) | C
 A command-line music organiser featuring advanced sorting and shuffling functionality.
 
 QuickSort used for efficient alphabetical ordering
